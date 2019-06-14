@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\VSCode\bot-test\myfirstbot\bin\Debug\netcoreapp2.1\myfirstbot.deps.json
+C:\Users\Administrator\Desktop\VSCode\bot-test\myfirstbot\bin\Debug\netcoreapp2.1\myfirstbot.runtimeconfig.json
+C:\Users\Administrator\Desktop\VSCode\bot-test\myfirstbot\bin\Debug\netcoreapp2.1\myfirstbot.runtimeconfig.dev.json
+c:\Users\Administrator\Desktop\VSCode\bot-test\myfirstbot\bin\Debug\netcoreapp2.1\myfirstbot.dll
+c:\Users\Administrator\Desktop\VSCode\bot-test\myfirstbot\bin\Debug\netcoreapp2.1\myfirstbot.pdb
+c:\Users\Administrator\Desktop\VSCode\bot-test\myfirstbot\obj\Debug\netcoreapp2.1\myfirstbot.csprojAssemblyReference.cache
+c:\Users\Administrator\Desktop\VSCode\bot-test\myfirstbot\obj\Debug\netcoreapp2.1\myfirstbot.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Desktop\VSCode\bot-test\myfirstbot\obj\Debug\netcoreapp2.1\myfirstbot.RazorAssemblyInfo.cache
+c:\Users\Administrator\Desktop\VSCode\bot-test\myfirstbot\obj\Debug\netcoreapp2.1\myfirstbot.RazorAssemblyInfo.cs
+c:\Users\Administrator\Desktop\VSCode\bot-test\myfirstbot\obj\Debug\netcoreapp2.1\myfirstbot.AssemblyInfoInputs.cache
+c:\Users\Administrator\Desktop\VSCode\bot-test\myfirstbot\obj\Debug\netcoreapp2.1\myfirstbot.AssemblyInfo.cs
+c:\Users\Administrator\Desktop\VSCode\bot-test\myfirstbot\obj\Debug\netcoreapp2.1\myfirstbot.RazorTargetAssemblyInfo.cache
+c:\Users\Administrator\Desktop\VSCode\bot-test\myfirstbot\obj\Debug\netcoreapp2.1\myfirstbot.dll
+c:\Users\Administrator\Desktop\VSCode\bot-test\myfirstbot\obj\Debug\netcoreapp2.1\myfirstbot.pdb
