@@ -137,7 +137,7 @@ public class MyBot : IBot
                 }
             }
 
-            //最後に現在のダイアログステートを保存
+            //最後に現在のダイアログステートを保存 
             await accessors.UserState.SaveChangesAsync(turnContext, false, cancellationToken);
             await accessors.ConversationState.SaveChangesAsync(turnContext, false, cancellationToken);
 
